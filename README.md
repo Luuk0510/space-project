@@ -12,11 +12,8 @@ Tijdens deze eindopdracht heb ik geleerd hoe ik een website kan ontwikkelen met 
 
 - **Homepagina**: Een introductiepagina over het zonnestelsel.
 - **Tekstpagina**: Informatie over de verschillende planeten.
-- **Alternatieve Tekstpagina**: Een tweede tekstpagina met een andere layout.
-- **Overzichtspagina**: Een samenvattende pagina met links naar de verschillende onderdelen van de website.
-- **Image Gallery**: Een galerij met afbeeldingen van de planeten.
+- **Alternatieve Tekstpagina**: Een tekstpagina met een andere layout.
 - **Contactpagina**: Een contactformulier voor bezoekers om in contact te komen.
-- **'Wie zijn wij' pagina**: Informatie over de makers van de website, inclusief foto's.
 
 ### Layout
 
@@ -32,4 +29,3 @@ Tijdens deze eindopdracht heb ik geleerd hoe ik een website kan ontwikkelen met 
 
 - **HTML/CSS**: De website is gebouwd met alleen HTML en CSS, waarbij gebruik is gemaakt van best practices om een nette en functionele website te maken.
 - **Media Queries**: Er zijn media queries gebruikt om de website responsive te maken en ervoor te zorgen dat de layout op verschillende apparaten goed werkt.
-- **Inspiratie**: Voor het ontwerp hebben we ons laten inspireren door grote merken zoals Nike, Eneco en Apple, om een strakke en nette uitstraling te realiseren.
